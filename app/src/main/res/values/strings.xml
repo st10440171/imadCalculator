@@ -1,0 +1,4 @@
+<resources>
+       <string name="app_name">guessingGame_</string>
+       <string name="btnText">submit Guess</string>
+</resources>

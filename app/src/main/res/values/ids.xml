@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvDisp" type="id">tvDisp</item>
+    <item name="btnAdd" type="id">btnAdd</item>
+    <item name="textView" type="id">textView</item>
+</resources>
